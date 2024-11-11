@@ -1,4 +1,4 @@
-# Sidewalk-Access-Score-FP
+# Sidewalk-Access-Score
 ## Deployment Page
 https://cse512-23s.github.io/Sidewalk-Access-Score-FP/
 
